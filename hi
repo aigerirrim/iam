@@ -1,0 +1,43 @@
+<html>
+    <title>Я Айгерим</title>
+    <body style="background:#FFFFF0;"font-family="sans-serif">
+        <header style="color:#9370DB;background:white"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/cb2e2e60982947.5a5f891178a26.jpg" height="30px" width="40px">16.10.-21.10. <a href="https://ru.wikipedia.org/wiki/Popular_(%D0%BF%D0%B5%D1%81%D0%BD%D1%8F_The_Weeknd,_Playboi_Carti_%D0%B8_%D0%9C%D0%B0%D0%B4%D0%BE%D0%BD%D0%BD%D1%8B)">Popular</a> <a href="https://ru.wikipedia.org/wiki/Let_Her_Go">Let her go</a></header>
+        <h1 style="text-align:center; color:#FF1493; background:#FFC0CB;font-size:50px;">Моя неделя</h1>
+    <main>
+        <p style="font-family:serif;font-size:20px">Понедельник. Я проснулась в 6.00 и поехала в школу. По литературе нам задавали выучить стих, а я конечно же не выучила. Мне пришлось учить стих в школе. Но до меня не дошла очередь, я рассказывала стих на следующий день и получила 5. У меня было 6 уроков потом я пошла на английский и хор.</p>
+        <p style="font-family:serif;font-size:20px">Во вторник после школы я пришла домой вместе с моей подругой Айназик и Айбике. Мы проиграли в настольную игру "Монополия" и покушали рамен Samyang. Это мой самый любимый острый рамен. А еще мы сняли тренд про Сербскую леди. Не знаю почему, но он кажется для меня смешным. И через несколько часов мы с Айбике поехали на сольфеджио. </p>
+        <img src="https://png.pngtree.com/background/20230317/original/pngtree-school-classroom-desks-dusk-background-picture-image_2149492.jpg"width="300"heigh="100"/><img src="https://images.tokopedia.net/img/cache/700/hDjmkQ/2023/1/3/220c26f8-e4ae-4082-8301-f12c8dedff91.jpg"width="200"heigh="100"/>
+        <p style="font-family:serif;font-size:20px">В среду мы с моими одноклассниками пошли навестить нашу классную руководительницу, так как сейчас она болеет и не может приходить в школу. Посидели у нее дома и я с Айназик кушали мороженое и гуляли в парке Ынтымак.</p>
+        <p style="font-family:serif;font-size:20px">В пятницу у моей мамы было день рождение. Мы купили цветы и пирог со свечками. Поздравили ее и поехали в ресторан. </p>
+        <p style="font-family:serif;font-size:20px">Именно в субботу у меня самое большое количество курсов. Практически с 8:00 до 16:00(ансамбль,ММЛ,фо-но, СС). После курсов мы обычно идем в КФС и кушаем картошку фри. Обычно на выходных я гуляю с моими подругами, но именно в эту неделю мы не встретились, так как у нас не получилось из-за кое-каких обстоятельств.</p>
+    </main>
+    <h2 style="text-align:center; color:white; background-color:MediumSlateBlue;font-size:40px;">Все мое любимое</h2>
+    <table style="border:1px solid green;border-collapse:collapse;font-size:20px;">
+        <tr style="border:1px solid #87CEFA;">
+        <td style="background-color:#6495ED;">Любимые цвета</td>
+        <td>Красный</td>
+        <td>Темно-синий</td>
+        <td>Желтый</td>
+    </tr>
+    <tr style="border:1px solid #87CEFA">
+        <td style="background-color:#7B68EE;">Любимая еда</td>
+        <td>Рыба (форель)</td>
+        <td>Рамен</td>
+        <td>Цезарь</td>
+    </tr>
+    <tr style="border:1px solid #87CEFA">
+        <td style="background-color:#6495ED;">Любимые книги</td>
+        <td>Кристина</td>
+        <td>Черный кофе</td>
+        <td>Джэк Лондон</td>
+    </tr>
+    <tr style="border:1px solid #87CEFA">
+        <td style="background-color:#7B68EE;">Любимые дорамы</td>
+        <td>Пентхаус</td>
+        <td>Мы все мертвы</td>
+        <td>Истинная красота</td>
+    </tr>
+    </table>
+    <p></p>
+    <footer style="color:#9370DB;background:#E6E6FA;font-size:20px;">inst:@aigerirrim, number:+996 700 100 100, address:Советская 112</footer>
+</html>
